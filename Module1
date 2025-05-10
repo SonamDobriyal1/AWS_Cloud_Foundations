@@ -1,0 +1,80 @@
+# ☁️ Cloud Computing – AWS Training Module 1: Cloud Concepts Overview
+
+## 📌 1. What is Cloud Computing?
+
+Cloud computing is the **on-demand delivery of compute power, storage, databases, applications**, and other IT resources through the internet with **pay-as-you-go** pricing.
+
+- Resources run on servers in **worldwide data centers**.
+- Cloud service providers like **AWS** own and manage these resources.
+
+🔗 [Learn more](https://aws.amazon.com/what-is-cloud-computing/)
+
+---
+
+## 🖥️ 2. Infrastructure: Hardware vs. Software
+
+### 🔧 Traditional Computing Model (Infrastructure as Hardware)
+
+- Requires:
+  - Physical space and data centers
+  - Security and maintenance staff
+  - Capital investment and procurement planning
+- Challenges:
+  - Long provisioning cycles
+  - Guessing peak capacity needs
+  - Under/over-provisioning leads to waste or shortages
+
+💡 **Example**: To launch a website, you need to buy, install, and manage physical servers.
+
+---
+
+### 💻 Cloud Computing Model (Infrastructure as Software)
+
+- Treats infrastructure as **software**, not physical hardware.
+- Key Advantages:
+  - Flexible and scalable
+  - Provision/deprovision on demand
+  - Automate scaling (elasticity)
+  - Lower upfront costs
+  - Eliminate maintenance work
+  - Enables rapid experimentation and innovation
+
+---
+
+## 📦 3. Cloud Service Models
+
+There are **three primary cloud service models**:
+
+| Service Model | Description | User Responsibility | Example |
+|---------------|-------------|----------------------|---------|
+| **IaaS** (Infrastructure as a Service) | Provides virtualized compute, storage, and networking | Full control over OS, apps, storage, data | Amazon EC2 |
+| **PaaS** (Platform as a Service) | Provides a platform for app deployment without managing infrastructure | Focus on app code and configuration | AWS Elastic Beanstalk |
+| **SaaS** (Software as a Service) | Delivers fully functional applications managed by the provider | Only responsible for using the app | Gmail, Dropbox |
+
+🔽 Control decreases from IaaS → PaaS → SaaS  
+🔼 Abstraction increases from IaaS → PaaS → SaaS
+
+---
+
+## ☁️ 4. Cloud Deployment Models
+
+| Deployment Model | Description | Characteristics |
+|------------------|-------------|------------------|
+| **Cloud** | Fully hosted in the cloud | Built or migrated to the cloud |
+| **Hybrid** | Combines on-premises and cloud | Most common model, gradual migration |
+| **On-Premises** (Private Cloud) | Resources hosted internally | High control, limited scalability |
+
+---
+
+## ✅ 5. Benefits of Cloud Computing
+
+- Pay-as-you-go pricing
+- Global reach and availability
+- Rapid provisioning and deployment
+- Elastic scaling (scale up/down on demand)
+- Reduced capital expenditures
+- Focus on innovation, not maintenance
+
+---
+
+> 📚 *These notes are based on AWS Training and Certification Module 1: Cloud Concepts Overview (© 2022, Amazon Web Services, Inc. or its affiliates. All rights reserved).*
