@@ -1,0 +1,63 @@
+Cloud Economics and Billing
+
+This module will address the following topics:
+•Fundamentals of Pricing
+•Total Cost of Ownership
+•AWS Organizations
+•AWS Billing and Cost Management
+•Technical Support
+
+SECTION - 1 : FUNDAMENTALS OF PRICING
+
+There are three fundamental drivers of pricing- compute, storage and outbound data transfer.
+In most cases,there is no charge for inbound data transfer or for data transfer between other AWS services within the same AWS Region. 
+There are some exceptions,so be sure to verify data transfer rates before you begin to use the AWS service.
+Outbound data transfer is aggregated across servicesand then charged at the outbound data transfer rate. 
+This charge appears on the monthly statement as AWS Data Transfer Out.
+
+AWS offers a range of cloud computing services. For each service, you pay for exactly the amount of resources that you actually need. 
+This utility-style pricing model includes:
+•Pay for what you use
+•Pay less when you reserve
+•Pay less when you use more
+•Pay even less as AWS grows 
+
+
+Pay less when you reserve
+nvest in Reserved Instances (RIs):
+•Save up to 75 percent
+Options:
+•All Upfront Reserved Instance (AURI) →largest discount
+•Partial Upfront Reserved Instance (PURI) →lower discounts
+•No Upfront Payments Reserved Instance (NURI) →smaller discount
+
+Pay less when you use more
+Savings as usage increases.
+•Tiered pricing for services like Amazon Simple Storage Service (Amazon S3), Amazon Elastic Block Store (Amazon EBS), or Amazon Elastic File System (Amazon EFS) 
+→the more you use, the less you pay per GB.
+•Multiple storage services deliver lowerstorage costs based on needs.
+With AWS, you can get volume-based discounts and realize important savings as your usage increases. 
+For services like Amazon Simple StorageService (Amazon S3), pricing is tiered, which means that you pay less per GB when you use more. 
+In addition, data transfer in is always free. Multiple storage services deliver lower storage costs based on your needs.
+As a result, as your AWS usage needs increase, you benefit from the economies of scale that enable you to increase adoption and keep costs under control.
+As your organization evolves, AWS also gives you options to acquire services that help you address your business needs. 
+For example, the AWS storage services portfolio offers options to help you lower pricing based on how frequently you access data and the performance that you need to retrieve it. 
+To optimize your savings, you can choose the right combination of storage solutions that help you reduce costs while preserving performance, security, and durability.
+
+
+ Pay even less as AWS grows
+ As AWS grows:
+ •AWS focuses on lowering cost of doing business.
+ •This practice results in AWS passing savings from economies of scale to you.
+ •Since 2006, AWS has lowered pricing 75times (as of September 2019).
+ •Future higher-performing resources replace current resources for no extra charge.
+
+
+ Custom Pricing :
+ To meet varying needs, suitable for high level projects with unique requirements.
+
+Services with no charge:
+
+
+
+
